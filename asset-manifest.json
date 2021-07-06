@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fendbend/static/css/main.a617e044.chunk.css",
+    "main.js": "/fendbend/static/js/main.6f1144a4.chunk.js",
+    "main.js.map": "/fendbend/static/js/main.6f1144a4.chunk.js.map",
+    "runtime-main.js": "/fendbend/static/js/runtime-main.9402ced1.js",
+    "runtime-main.js.map": "/fendbend/static/js/runtime-main.9402ced1.js.map",
+    "static/js/2.b5b0b953.chunk.js": "/fendbend/static/js/2.b5b0b953.chunk.js",
+    "static/js/2.b5b0b953.chunk.js.map": "/fendbend/static/js/2.b5b0b953.chunk.js.map",
+    "static/js/3.b7ccefb0.chunk.js": "/fendbend/static/js/3.b7ccefb0.chunk.js",
+    "static/js/3.b7ccefb0.chunk.js.map": "/fendbend/static/js/3.b7ccefb0.chunk.js.map",
+    "index.html": "/fendbend/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/fendbend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b5b0b953.chunk.js.LICENSE.txt": "/fendbend/static/js/2.b5b0b953.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fendbend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9402ced1.js",
+    "static/js/2.b5b0b953.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6f1144a4.chunk.js"
+  ]
+}
